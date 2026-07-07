@@ -15,3 +15,5 @@ print("Today is Day 1")
 print("Dimpal\n34\nRewari")
 
 print("*****\n*   *\n*****")
+
+print("    *    \n   ***   \n  *****  \n ******* \n*********")
