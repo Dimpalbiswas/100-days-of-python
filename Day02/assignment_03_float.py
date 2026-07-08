@@ -1,0 +1,6 @@
+print(3.14)
+print(-5.75)
+print(100.0)
+print(type(3.14))
+print(type(-5.75))
+print(type(100.0))

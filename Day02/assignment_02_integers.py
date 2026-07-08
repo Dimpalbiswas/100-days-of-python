@@ -1,0 +1,6 @@
+print(25)
+print(-10)
+print(0)
+print(type(25))
+print(type(-10))
+print(type(0))

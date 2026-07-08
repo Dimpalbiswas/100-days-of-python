@@ -1,0 +1,8 @@
+print("Python")
+print(100)
+print(3.14)
+print(True)
+print(type("Python"))
+print(type(100))
+print(type(3.14))
+print(type(True))
